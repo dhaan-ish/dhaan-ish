@@ -52,7 +52,7 @@ I'm open to contributions, suggestions, or feedback on any of my projects. If yo
 
 If you find my work useful or interesting, consider buying me a coffee! It keeps me fueled up for coding sessions ☕️
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dhaan-ish)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dhaanish)
 
 ## Acknowledgements
 
