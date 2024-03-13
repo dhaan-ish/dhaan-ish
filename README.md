@@ -11,7 +11,7 @@ I'm Dhaanish Ahamed, a passionate web developer and AI enthusiast based in Chenn
 
 Here's a snapshot of my GitHub activity:
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-items: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=dhaan-ish&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 50%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaan-ish&show_icons=true&layout=donut&theme=dark#gh-dark-mode-only" style="max-width: 50%;">
 </div>
