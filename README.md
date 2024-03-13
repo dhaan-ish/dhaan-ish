@@ -8,9 +8,22 @@ Hey there! 👋 Welcome to my GitHub page. This repository serves as a space whe
 I'm Dhaanish Ahamed, a passionate web developer and AI enthusiast based in Chennai. I love building web applications and exploring the fascinating world of AI, ML, and DL. I'm particularly skilled at integrating AI/ML/DL models into web apps to create intelligent and interactive experiences.
 
 # Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dhaan-ish&show_icons=true&theme=dark#gh-dark-mode-only)
-<br/>
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaan-ish&show_icons=true&layout=donut&theme=dark#gh-dark-mode-only)
+
+Here's a snapshot of my GitHub activity:
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaan-ish&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaan-ish&show_icons=true&layout=donut&theme=dark#gh-dark-mode-only" style="max-width: 50%;">
+</div>
+
+- **GitHub Stats:** The first image shows an overview of my GitHub stats, including total contributions, commits, pull requests, and more.
+
+- **Top Languages:** The second image displays the distribution of programming languages used in my repositories. It provides insight into the languages I'm most proficient in.
+
+Feel free to explore and analyze my GitHub profile further!
+
+
+
 
 ## Projects
 
