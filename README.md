@@ -35,9 +35,6 @@ Here are some projects you might find interesting:
 
 There are many projects other than this. Feel free to explore the repositories and check out the code!
 
-## Contact Me
-
-Want to discuss a project, collaborate, or just say hi? You can reach out to me via:
 
 ## Contact Me
 
