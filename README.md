@@ -11,6 +11,12 @@
   <a href="https://github.com/dhaan-ish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/dhaan_ish/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/dhaan_ish"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/dhaan_ish"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -38,6 +44,11 @@ I specialize in **AI Agents & Backend Systems** at HID Global Chennai. I focus o
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_Intel_OneAPI_AI/ML_Hackathon-Winner-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_Amazon_ML_Challenge_2024-AIR_74-orange?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_TCS_Codevita-World_Rank_1296-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_GATE_2026-AIR_3367-blue?style=for-the-badge" />
 </p>
 
 ---
